@@ -6,6 +6,37 @@ A beautiful, feature-rich terminal-based dashboard for monitoring the Monad Test
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)
 ![WebSocket](https://img.shields.io/badge/WebSocket-Real--time-ff6b6b?style=for-the-badge)
 
+## 📸 Screenshot
+
+```
+  __  __  ___  _  _   _   ___     _   _ _   _____ ___    _
+ |  \/  |/ _ \| \| | /_\ |   \   | | | | | |_   _| _ \  /_\
+ | |\/| | (_) | .` |/ _ \| |) |  | |_| | |__ | | |   / / _ \
+ |_|  |_|\___/|_|\_/_/ \_\___/    \___/|____| |_|_|_\/_/ \_\
+                                                              
+   ___  _    ___
+  / __|| |  |_ _|
+ | (__ | |__ | |
+  \___||____|___|
+                 
+
+   ╭───────────────╮
+   │🟢 CONNECTED   │
+   ╰───────────────╯
+
+? 🎯 What would you like to do?
+❯ 🔌 Connect to Monad Testnet
+  🔒 Disconnect
+  📊 Open Real-Time Dashboard
+  ⚡ Speculative Monitoring
+  📈 Show Statistics
+  🔔 Manage Subscriptions
+  🌐 Network Information
+  ❌ Exit
+
+Status: 🟢 CONNECTED | ⏰ Uptime: 2m 15s | 📦 Last Block: #1,234,567 | 🔔 Subscriptions: 2
+```
+
 ## ✨ Features
 
 ### 🎨 Beautiful Interface
