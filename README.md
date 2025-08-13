@@ -34,7 +34,7 @@ A beautiful, feature-rich terminal-based dashboard for monitoring the Monad Test
   🌐 Network Information
   ❌ Exit
 
-Status: 🟢 CONNECTED | ⏰ Uptime: 2m 15s | 📦 Last Block: #1,234,567 | 🔔 Subscriptions: 2
+Status: 🟢 CONNECTED | ⏰ Uptime: 2m 15s | 📦 Last Block: #--------- | 🔔 Subscriptions: 2
 ```
 
 ## ✨ Features
