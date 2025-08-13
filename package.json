@@ -1,0 +1,25 @@
+{
+  "name": "monad-cli-dashboard",
+  "version": "1.0.0",
+  "description": "Monad Testnet CLI Dashboard - Terminal tabanlı real-time monitoring",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["monad", "blockchain", "cli", "dashboard", "testnet"],
+  "author": "Monad CLI Team",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12",
+    "ws": "^8.14.2",
+    "blessed": "^0.1.81",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "cli-spinners": "^2.9.2",
+    "boxen": "^7.1.1",
+    "ora": "^7.0.1"
+  }
+}
